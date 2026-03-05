@@ -1,4 +1,4 @@
-PLEASE SEE THE WIKI: https://gitlab-aidl-fi.ostfalia.de/aidl/pbl/-/wikis/home
+
 
 
 
